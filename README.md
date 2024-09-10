@@ -1,5 +1,5 @@
 # Legal_Assistant
-SIH'24
+
 
 
 # 📜 Commercial LawBot
